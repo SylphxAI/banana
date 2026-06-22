@@ -5,6 +5,7 @@
     "name": "banana",
     "lifecycle": "incubating",
     "layer": "research",
+    "policyPool": "research",
     "summary": "Experimental placeholder repository with no implementation or production surface declared yet.",
     "goals": [
       "Provide a doctrine-compatible entry point for future experimental work.",
@@ -73,6 +74,7 @@
   },
   "delivery": {
     "ciModel": "none",
+    "deployable": false,
     "requiredContexts": [],
     "deployPath": "not-applicable: no implementation or deployment path is declared yet",
     "productionProof": "not-applicable: no production surface is declared yet",
